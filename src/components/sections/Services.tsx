@@ -2,7 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Code, ShoppingCart, Layers, Palette, Wordpress, Wrench } from "lucide-react";
+import { Code, ShoppingCart, Layers, Palette, Globe, Wrench } from "lucide-react";
 import { AnimatedSection, ScaleIn } from "@/components/shared/AnimatedSection";
 
 export default function Services() {
@@ -27,7 +27,7 @@ export default function Services() {
     },
     {
       key: "wordpress",
-      icon: Wordpress,
+      icon: Globe,
     },
     {
       key: "maintenance",
