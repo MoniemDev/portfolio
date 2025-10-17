@@ -1,0 +1,207 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Moniem",
+    "title": "Front-end Web Developer",
+    "description": "I design innovative, professional websites that reflect your business identity and focus on details and user experience.",
+    "cta": "Get a Free Quote",
+    "secondaryCta": "View My Work",
+    "stats": {
+      "experience": "Years of Experience",
+      "projects": "Projects Completed",
+      "clients": "Satisfied Clients"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "محمد عبد المنعم - Muhammad Abdul Moneim",
+    "description": "As a Front-end Web Developer, I focus on creating professional websites that grow and assist businesses. I ensure every design reflects your commercial identity and meets your needs, with special attention to details and user experience.",
+    "commitment": "Quality and execution are my priorities. Client satisfaction is most important to me, and I share every design stage with you to ensure the best results.",
+    "technologies": "Technologies I Use",
+    "tools": {
+      "html": "HTML",
+      "css": "CSS",
+      "javascript": "JavaScript",
+      "react": "React",
+      "vue": "Vue.js",
+      "wordpress": "WordPress",
+      "luancy": "Luancy (UI/UX Design)",
+      "vscode": "VS Code",
+      "cursor": "Cursor"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "What I Offer",
+    "items": {
+      "webDevelopment": {
+        "title": "Custom Web Development",
+        "description": "Professional websites built with modern technologies and best practices.",
+        "features": [
+          "Responsive design for all devices",
+          "Modern UI/UX design",
+          "Fast loading speed",
+          "SEO optimized"
+        ]
+      },
+      "ecommerce": {
+        "title": "E-commerce Solutions",
+        "description": "Complete online stores with payment integration and inventory management.",
+        "features": [
+          "Payment gateway integration",
+          "Product management",
+          "Shopping cart functionality",
+          "Order tracking"
+        ]
+      },
+      "webApps": {
+        "title": "Web Applications",
+        "description": "Interactive web applications with React or Vue.js frameworks.",
+        "features": [
+          "Single Page Applications (SPA)",
+          "Real-time functionality",
+          "API integration",
+          "Database connection"
+        ]
+      },
+      "uiux": {
+        "title": "UI/UX Design",
+        "description": "User-centered design that focuses on usability and aesthetics.",
+        "features": [
+          "Wireframe creation",
+          "Prototype design",
+          "User flow optimization",
+          "Visual design"
+        ]
+      },
+      "wordpress": {
+        "title": "WordPress Development",
+        "description": "Easy-to-manage websites with WordPress CMS.",
+        "features": [
+          "Custom theme development",
+          "Plugin integration",
+          "Content management",
+          "Easy updates"
+        ]
+      },
+      "maintenance": {
+        "title": "Maintenance & Support",
+        "description": "Ongoing support and periodic maintenance for your website.",
+        "features": [
+          "Regular updates",
+          "Performance optimization",
+          "Bug fixes",
+          "Technical support"
+        ]
+      }
+    }
+  },
+  "process": {
+    "title": "How I Work",
+    "subtitle": "A proven process to deliver exceptional results",
+    "step1": {
+      "title": "Discovery & Consultation",
+      "description": "We discuss your needs, goals, and vision to create the perfect strategy for your project."
+    },
+    "step2": {
+      "title": "Planning & Strategy",
+      "description": "Define objectives, target audience, and prepare wireframes and detailed project roadmap."
+    },
+    "step3": {
+      "title": "Design & Development",
+      "description": "Create stunning UI/UX designs and develop with modern technologies for optimal performance."
+    },
+    "step4": {
+      "title": "Testing & Launch",
+      "description": "Rigorous testing across devices and browsers, then deploy to production with monitoring."
+    },
+    "step5": {
+      "title": "Support & Optimization",
+      "description": "Ongoing maintenance, updates, and continuous optimization for peak performance."
+    }
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "What my clients say about working with me",
+    "testimonial1": {
+      "name": "Ahmed Hassan",
+      "company": "Tech Solutions Inc",
+      "text": "Outstanding work! The website exceeded our expectations. Professional, responsive, and delivered on time."
+    },
+    "testimonial2": {
+      "name": "Sarah Johnson",
+      "company": "Creative Agency",
+      "text": "Moniem transformed our vision into reality. The attention to detail and communication throughout the project was exceptional."
+    },
+    "testimonial3": {
+      "name": "Omar Ali",
+      "company": "E-commerce Store",
+      "text": "Our online sales doubled after the new website launch. Highly skilled developer who understands business needs."
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Featured Work",
+    "viewAll": "View All Projects",
+    "viewProject": "View Project",
+    "viewCode": "View Code"
+  },
+  "cta": {
+    "title": "Ready to Start Your Project?",
+    "description": "Let's work together to create a professional website that reflects your business identity and achieves your goals.",
+    "button": "Get in Touch",
+    "guarantee": "Free consultation available"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Let's Discuss Your Project",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Phone Number (Optional)",
+      "service": "Service Interested In",
+      "message": "Project Details",
+      "budget": "Budget Range (Optional)",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! I'll get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    },
+    "social": "Follow Me"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Latest Articles & Insights",
+    "readMore": "Read More",
+    "categories": "Categories",
+    "recentPosts": "Recent Posts"
+  },
+  "footer": {
+    "description": "Front-end Web Developer specializing in creating professional websites that reflect your business identity.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to get updates and latest articles",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    },
+    "copyright": "© 2024 Moniem. All rights reserved."
+  }
+}
