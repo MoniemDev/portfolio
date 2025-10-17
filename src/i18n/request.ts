@@ -9,8 +9,8 @@ export default getRequestConfig(async ({requestLocale}) => {
   }
 
   const messages = locale === 'ar'
-    ? (await import('../../messages/ar.json')).default
-    : (await import('../../messages/en.json')).default;
+    ? (await import('@/messages/ar.json')).default
+    : (await import('@/messages/en.json')).default;
 
   return {
     locale,
